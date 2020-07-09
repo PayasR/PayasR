@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello! 👋
 
+I work on route planning algorithms for transportation networks, and sometimes on the problems that arise around it. 
+
+If you're interested in learning how mapping services (GMaps/Apple Maps/OSRM/GraphHopper/XYZ Maps) work, there's an excellent survey of the field [here](https://arxiv.org/abs/1504.05140), and [here](https://gist.github.com/PayasR/bc46af938195a827e42006c3f5544e4a) is a list of open-source routing algorithm implementations.
+
+📫 You can reach me on [Twitter](https://twitter.com/PayasR).
 <!--
 **PayasR/PayasR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
